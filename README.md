@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-![Mi Foto](JavaProyects/calculadora/imagenGit.jpg)
+<img src="JavaProyects/calculadora/imagenGit.jpg" alt="">
 
 Soy Espartaco Nassekine, un desarrollador de software apasionado con un gran dominio en Java y Spring Framework. Recientemente me gradué y estoy entusiasmado por contribuir y colaborar en proyectos emocionantes. Aquí te dejo un resumen de mis habilidades y tecnologías con las que trabajo:
 
