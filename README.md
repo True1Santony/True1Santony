@@ -53,6 +53,8 @@ Soy un desarrollador de software apasionado con un gran dominio en Java y Spring
 
 Soy un desarrollador proactivo y siempre en busca de nuevos conocimientos. Disfruto trabajar en equipo y contribuir a la comunidad open-source. Estoy abierto a nuevas oportunidades y colaboraciones.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ¡Gracias por visitar mi perfil!
 
