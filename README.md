@@ -57,6 +57,7 @@ Soy un desarrollador proactivo y siempre en busca de nuevos conocimientos. Disfr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=True1Santony&show_icons=true)](https://github.com/True1Santony/github-readme-stats&show_icons=true)
 
+[![Analytics](https://ga-beacon.appspot.com/G-7Z54BN6D6P/github.com/True1Santony)](https://github.com/True1Santony)
 
 ¡Gracias por visitar mi perfil!
 
