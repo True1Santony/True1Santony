@@ -39,7 +39,7 @@
 
 | Lenguajes | Bases de datos | Entornos | Otros |
 |----------|----------------|----------|-------|
-| Java, C#, PL/SQL, XML, HTML, CSS | Oracle, MySQL, PostgreSQL, MongoDB, MariaDB, db4o, H2 | Eclipse, NetBeans, VS Code, Android Studio | Firebase, UML, Git Flow, Jira, XQuery, XPath |
+| Java, C#, PL/SQL, XML, HTML, CSS | Oracle, MySQL, PostgreSQL, MongoDB, MariaDB, db4o, H2 | IntelliJ IDEA, Eclipse, NetBeans, VS Code, Android Studio | Firebase, UML, Git Flow, Jira, XQuery, XPath |
 
 ---
 
