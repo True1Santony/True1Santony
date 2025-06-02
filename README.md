@@ -1,4 +1,3 @@
-# 👋 ¡Hola! Soy Espartaco.
 
 <img src="https://github.com/True1Santony/JavaProyects/blob/9049add1cab2514bedb9a6b9bbe3dbbd5a921584/calculadora/imagenGit.jpg" width="100%" />
 
